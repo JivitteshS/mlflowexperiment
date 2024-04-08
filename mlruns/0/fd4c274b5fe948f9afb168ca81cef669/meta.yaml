@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/fd4c274b5fe948f9afb168ca81cef669/artifacts
+end_time: 1712559017370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd4c274b5fe948f9afb168ca81cef669
+run_name: marvelous-skink-820
+run_uuid: fd4c274b5fe948f9afb168ca81cef669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712559014647
+status: 3
+tags: []
+user_id: jivit

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/58e2f74b50b844f8b699b635958e9b03/artifacts
+end_time: 1712559478142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58e2f74b50b844f8b699b635958e9b03
+run_name: sassy-flea-660
+run_uuid: 58e2f74b50b844f8b699b635958e9b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712559475564
+status: 3
+tags: []
+user_id: jivit
