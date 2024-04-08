@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/35a11cbb90c14996b3743dd008104e60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35a11cbb90c14996b3743dd008104e60
+run_name: languid-snipe-308
+run_uuid: 35a11cbb90c14996b3743dd008104e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712562782760
+status: 1
+tags: []
+user_id: jivit

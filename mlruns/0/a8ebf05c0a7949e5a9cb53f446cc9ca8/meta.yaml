@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/a8ebf05c0a7949e5a9cb53f446cc9ca8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8ebf05c0a7949e5a9cb53f446cc9ca8
+run_name: serious-lamb-210
+run_uuid: a8ebf05c0a7949e5a9cb53f446cc9ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712562926715
+status: 1
+tags: []
+user_id: jivit
